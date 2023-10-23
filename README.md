@@ -10,6 +10,7 @@ Este repositório contém o código e a documentação relacionados ao experimen
 - 1 PowerBank para fornecimento de energia
 - 1 script em Python para a aquisição de dados recebidos pela porta serial
 - 2 scripts em C++ para a transmissão de dados via LoRa.
+- Biblioteca RadioLib
 
 ## Estrutura do Repositório
 
