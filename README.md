@@ -1,6 +1,6 @@
 # Experimento de Transmissão de Dados LoRa com Heltec V3 e Heltec V2
 
-Este repositório contém o código e a documentação relacionados ao experimento de transmissão de dados utilizando a tecnologia LoRa com os módulos Heltec V3 e Heltec V2. O experimento tem como objetivo caracterizar a transmissão de dados em diferentes cenários, incluindo distâncias variadas e obstáculos simulados, como um bloco de sala de aula.
+Este repositório contém o código e a documentação relacionados ao experimento de transmissão de dados utilizando a tecnologia LoRa com os módulos Heltec V3 e Heltec V2. O experimento tem como objetivo caracterizar a transmissão de dados em diferentes cenários, incluindo distâncias variadas e obstáculos como um bloco de sala de aula.
 
 ## Material Utilizado
 
