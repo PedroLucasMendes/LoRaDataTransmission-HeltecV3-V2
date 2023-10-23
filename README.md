@@ -25,7 +25,9 @@ Este repositório contém o código e a documentação relacionados ao experimen
 2. Certifique-se de ter o módulo Heltec V3 corretamente configurado e conectado ao Raspberry Pi.
 3. Execute o script em Python no Raspberry Pi logo após conectar o Heltec V3 no mesmo, para aquisição e análise dos dados recebidos.
 
-![Diagrama da transmissão](https://raw.githubusercontent.com/PedroLucasMendes/LoRaDataTransmission-HeltecV3-V2/main/img/Transmiss%C3%A3oLoRa.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PedroLucasMendes/LoRaDataTransmission-HeltecV3-V2/main/img/Transmiss%C3%A3oLoRa.png" alt="Diagrama da transmissão">
+</p>
 
 ## Contribuições
 
